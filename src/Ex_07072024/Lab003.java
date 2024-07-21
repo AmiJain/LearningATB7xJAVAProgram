@@ -1,4 +1,4 @@
 package Ex_07072024;
 
-public class lab003 {
+public class Lab003 {
 }

@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4819ee6-efee-4fe0-8b75-939f81e67e9c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningATB7xJAVAProgram.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_07072024/lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_07072024/lab002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_07072024/lab003.java" afterDir="false" />
+    <list default="true" id="b4819ee6-efee-4fe0-8b75-939f81e67e9c" name="Changes" comment="All Files Added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_07072024/lab001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_07072024/Lab001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_07072024/lab002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_07072024/Lab002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_07072024/lab003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_07072024/Lab003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_07072024/lab004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_07072024/Lab004.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +26,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AmiJain"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/AmiJain/LearningATB7xJAVAProgram.git",
@@ -50,6 +51,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Lab005.executor": "Run",
     "Application.lab001.executor": "Run",
     "Application.lab002.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -66,6 +68,27 @@
       <option name="presentableId" value="Default" />
       <updated>1721487560382</updated>
     </task>
+    <task id="LOCAL-00001" summary="All Files Added">
+      <option name="closed" value="true" />
+      <created>1721491209522</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721491209522</updated>
+    </task>
+    <task id="LOCAL-00002" summary="All Files Added">
+      <option name="closed" value="true" />
+      <created>1721491411639</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721491411639</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="All Files Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="All Files Added" />
   </component>
 </project>
