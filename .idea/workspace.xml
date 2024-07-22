@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b4819ee6-efee-4fe0-8b75-939f81e67e9c" name="Changes" comment="All Files Added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_07072024/lab001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_07072024/Lab001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_07072024/lab002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_07072024/Lab002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_07072024/lab003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_07072024/Lab003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_07072024/lab004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_07072024/Lab004.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +47,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Ex011_Strings.executor": "Run",
     "Application.Lab005.executor": "Run",
+    "Application.Lab006.executor": "Run",
+    "Application.Lab007.executor": "Run",
+    "Application.Lab008.executor": "Run",
+    "Application.TypeCasting.executor": "Run",
     "Application.lab001.executor": "Run",
     "Application.lab002.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -84,7 +85,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721491411639</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="All Files Added">
+      <option name="closed" value="true" />
+      <created>1721544671806</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721544671806</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
