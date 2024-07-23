@@ -22,21 +22,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "AmiJain"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AmiJain&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/AmiJain/LearningATB7xJAVAProgram.git",
-    "accountId": "2a34750b-40d3-486c-86c3-52f7941439c2"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AmiJain/LearningATB7xJAVAProgram.git&quot;,
+    &quot;accountId&quot;: &quot;2a34750b-40d3-486c-86c3-52f7941439c2&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2jW0Wz1fm0ohY0HwK2uxpLqGO0A" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -52,6 +52,18 @@
     "Application.Lab006.executor": "Run",
     "Application.Lab007.executor": "Run",
     "Application.Lab008.executor": "Run",
+    "Application.Lab012_Loops.executor": "Run",
+    "Application.Lab013_Loops.executor": "Run",
+    "Application.Lab014_Loops.executor": "Run",
+    "Application.Lab015_Loops.executor": "Run",
+    "Application.Lab016_Loops.executor": "Run",
+    "Application.Lab017_Loops.executor": "Run",
+    "Application.Lab018_Loops.executor": "Run",
+    "Application.Lab019_Loops.executor": "Run",
+    "Application.Lab020_Loops.executor": "Run",
+    "Application.Lab021_Loops.executor": "Run",
+    "Application.Lab022_SwitchCond.executor": "Run",
+    "Application.Lab023_FizzBuzz.executor": "Run",
     "Application.TypeCasting.executor": "Run",
     "Application.lab001.executor": "Run",
     "Application.lab002.executor": "Run",
@@ -60,6 +72,82 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Lab023_FizzBuzz">
+    <configuration name="Lab019_Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_20072024.Lab019_Loops" />
+      <module name="LearningATB7xJAVAProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex_20072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab020_Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_20072024.Lab020_Loops" />
+      <module name="LearningATB7xJAVAProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex_20072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab021_Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_20072024.Lab021_Loops" />
+      <module name="LearningATB7xJAVAProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex_20072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab022_SwitchCond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_20072024.Lab022_SwitchCond" />
+      <module name="LearningATB7xJAVAProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex_20072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab023_FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_20072024.Lab023_FizzBuzz" />
+      <module name="LearningATB7xJAVAProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex_20072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lab023_FizzBuzz" />
+        <item itemvalue="Application.Lab022_SwitchCond" />
+        <item itemvalue="Application.Lab021_Loops" />
+        <item itemvalue="Application.Lab020_Loops" />
+        <item itemvalue="Application.Lab019_Loops" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -93,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721544671806</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="All Files Added">
+      <option name="closed" value="true" />
+      <created>1721637835135</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721637835135</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
